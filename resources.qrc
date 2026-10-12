@@ -1,0 +1,72 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sprites/wall.png</file>
+        <file>sprites/stone.png</file>
+        <file>sprites/fire.png</file>
+        <file>sprites/swamp.png</file>
+        <file>sprites/finish.png</file>
+
+	<file>sprites/menu_background.png</file>
+	<file>sprites/highscores_background.png</file>
+	<file>sprites/help_screen.png</file>
+
+	<file>sprites/wall.png</file>
+
+        <file>sprites/cup.png</file>
+        <file>sprites/crystal.png</file>
+        <file>sprites/crystal_broken.png</file>
+        <file>sprites/gate_open.png</file>
+        <file>sprites/gate_closed.png</file>
+        <file>sprites/potion.png</file>
+        <file>sprites/key.png</file>
+        <file>sprites/shield.png</file>
+        <file>sprites/speedboost.png</file>
+
+        <file>sprites/pixie_down.png</file>
+        <file>sprites/pixie_up.png</file>
+        <file>sprites/spider_down.png</file>
+        <file>sprites/spider_up.png</file>
+        <file>sprites/troll_left.png</file>
+        <file>sprites/troll_right.png</file>
+        <file>sprites/troll_up.png</file>
+        <file>sprites/troll_down.png</file>
+
+	<file>sprites/dragon_egg.png</file>
+	<file>sprites/dragon_egg_broken.png</file>
+	<file>sprites/dragon_down.png</file>
+	<file>sprites/dragon_hurt.png</file>
+	<file>sprites/dragon_up.png</file>
+	<file>sprites/dragon_down.png</file>
+	<file>sprites/dragon_left.png</file>
+	<file>sprites/dragon_right.png</file>
+	<file>sprites/dragon_defeated.png</file>
+	<file>sprites/dragon_fire.png</file>
+
+        <file>sprites/host_left.png</file>
+        <file>sprites/host_right.png</file>
+        <file>sprites/host_up.png</file>
+        <file>sprites/host_down.png</file>
+        <file>sprites/host_key.png</file>
+        <file>sprites/host_hurt.png</file>
+        <file>sprites/host_win.png</file>
+        <file>sprites/host_idle.png</file>
+        <file>sprites/host_shield.png</file>
+
+        <file>sprites/client_left.png</file>
+        <file>sprites/client_right.png</file>
+        <file>sprites/client_up.png</file>
+        <file>sprites/client_down.png</file>
+        <file>sprites/client_key.png</file>
+        <file>sprites/client_hurt.png</file>
+        <file>sprites/client_win.png</file>
+        <file>sprites/client_idle.png</file>
+        <file>sprites/client_shield.png</file>
+
+	<file>sounds/key.wav</file>
+	<file>sounds/gate.wav</file>
+	<file>sounds/crystal.wav</file>
+	<file>sounds/finish.wav</file>
+	<file>sounds/damage.wav</file>
+	<file>sounds/powerup.wav</file>
+    </qresource>
+</RCC>
